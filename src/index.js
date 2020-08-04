@@ -7,7 +7,7 @@ import  Counters from "./components/counters";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
-  <Counters />,
+  <App />,
   document.getElementById('root')
 );
 
